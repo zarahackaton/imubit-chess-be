@@ -1,1 +1,0 @@
-{"version":3,"file":"movementRoutes.js","sourceRoot":"","sources":["../../src/routes/movementRoutes.ts"],"names":[],"mappings":";;;;;AACA,2FAAmE;AAEnE,MAAM,cAAc;IAEhB;QACI,IAAI,CAAC,kBAAkB,GAAG,IAAI,4BAAkB,EAAE,CAAC;IACvD,CAAC;IAEM,MAAM,CAAC,GAAgB;QAC1B,GAAG,CAAC,KAAK,CAAC,kBAAkB,CAAC;aACxB,GAAG,CAAC,IAAI,CAAC,kBAAkB,CAAC,YAAY,CAAC,CAAC;IACnD,CAAC;CACJ;AAED,kBAAe,cAAc,CAAC"}
